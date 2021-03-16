@@ -1,12 +1,12 @@
-# Template taller de software 
+# Template taller de software
 
-## Descripción de carpetas 
+## Descripción de carpetas
 
 |Carpeta|Descripción|
 |:----:|:---------:|
 |src| Código fuente del proyecto|
-|informes| Informes del proyecto|
-|docker| Archivo Dockerfile que permite correr el proyecto|
+|docker| Archivo Dockerfile del proyecto|
+|scripts| Scripts para correr el proyecto|
 
 ## Ejemplo de como ejecutar docker
 
